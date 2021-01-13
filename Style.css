@@ -1,0 +1,35 @@
+h1{
+    color: blueviolet;
+    text-align: center
+}
+
+h3{
+    text-align: center
+}
+
+div {
+    padding-right: 30px;
+    padding-bottom: 20px;
+    padding-left: 80px;
+}
+
+p{
+    margin-right: 100px;
+    margin-left: 100px;
+
+}
+
+.green{
+    color:green
+}
+
+.orange{
+    color:orange;
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
